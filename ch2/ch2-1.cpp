@@ -1,6 +1,6 @@
-#include <iostream>
+#include <iostream> // allow  output on screen
 
-int main()
+int main()// main function
 {
     std::cout<<"welcome to C++! \n";
     return 0;
